@@ -1,6 +1,5 @@
-<p align="center">
   <h1>🔐 &lt;PassOP/&gt;</h1>
-</p>
+
 
 <p align="center">
   <strong>Your Own Password Manager</strong><br>
