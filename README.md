@@ -1,12 +1,60 @@
-# React + Vite
+# <PassOP/> 🔐  
+Your Own Password Manager  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PassOP is a secure and user-friendly password manager web app that allows you to **store, edit, and delete your passwords** safely.  
+The app is built with **Express.js, Vite, React, and MongoDB Atlas** for data storage.  
 
-Currently, two official plugins are available:
+👉 **Live Demo:** [Visit PassOP](https://pass-op-chi-one.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features  
+- 🔒 Store website credentials (site, username, password) securely  
+- ✏️ Edit and update saved passwords anytime  
+- 🗑️ Delete credentials with one click  
+- 👁️ Hide/Show password toggle  
+- ⚡ Built with modern technologies (React + Vite + Express.js)  
+- ☁️ Uses MongoDB Atlas for cloud-based storage  
+- 🎨 Smooth and beautiful UI with simple animations  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React + Vite + TailwindCSS  
+- **Backend:** Express.js + Node.js → [PassOP Backend Repo](https://pass-op-backend-jet.vercel.app/)  
+- **Database:** MongoDB Atlas  
+- **Deployment:** Vercel (Frontend), Render/Other (Backend)  
+
+---
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+- Node.js & npm installed  
+- MongoDB Atlas account  
+
+### Clone the repository  
+```bash
+git clone https://github.com/your-username/Pass-OP-Frontend.git
+cd Pass-OP-Frontend
+Install dependencies
+npm install
+
+Run locally
+npm run dev
+
+
+The app will start on http://localhost:5173/ 🎉
+
+📂 Backend Repository
+
+The backend of this project is available here:
+👉 Pass-OP-Backend
+
+📸 Preview
+
+Here’s how PassOP looks:
+
+👨‍💻 Author
+
+Built with ❤️ by Md Asif Ali
